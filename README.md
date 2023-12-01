@@ -43,7 +43,7 @@ $ npm install
 Copy .env.[dev|prod] into .env file and set respective environment variable values
 
 ```bash
-$ cp .env[dev|prod] .env
+$ cp .env.[dev|prod] .env
 ```
 
 
